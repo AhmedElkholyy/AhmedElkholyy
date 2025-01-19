@@ -34,10 +34,10 @@
   </a>
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedElkholyy&show_icons=true&theme=transparent" alt="AhmedElkholyy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedElkholyy&show_icons=true&theme=dark" alt="AhmedElkholyy" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedElkholyy&show_icons=true&locale=en&layout=compact&theme=transparent" alt="AhmedElkholyy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedElkholyy&show_icons=true&locale=en&layout=compact&theme=dark" alt="AhmedElkholyy" />
 </p>
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
