@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Ahmed Elkholy</h1>
-<p></p>
+<p>A passionate Full-Stack Developer & Unity Game Developer | React.js | C#</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -20,37 +21,25 @@
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-    <img src="https://github.com/AhmedElkholyy/AhmedElkholyy/blob/main/icons8-express-js-40.png?raw=true" alt="express" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" />
-  </a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
   </a>
 </p>
 
 <h2>⚡️ Where to find me</h2>
 <p>
   <a target="_blank" href="https://www.facebook.com/AhmedElkholy584">
-    <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
   </a>
   <a target="_blank" href="https://www.instagram.com/ahmeddmelkholy">
-    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </p>
 
+<h2>📊 GitHub Stats</h2>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedElkholyy&show_icons=true&theme=dark&locale=en" alt="AhmedElkholyy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElkholyy&show_icons=true&theme=dark&locale=en" alt="AhmedElkholyy" />
 </p>
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedElkholyy&show_icons=true&theme=dark&locale=en&layout=compact" alt="AhmedElkholyy" />
 </p>
