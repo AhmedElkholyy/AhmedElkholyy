@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ahmed Elkholy</h1>
-<p>A passionate Full-Stack Developer & Unity Game Developer | React.js | C#</p>
+
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
