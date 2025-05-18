@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Ahmed Elkholy</h1>
 
-
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
