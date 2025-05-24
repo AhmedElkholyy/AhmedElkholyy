@@ -36,6 +36,9 @@
 </p>
 
 <h2>📊 GitHub Stats</h2>
+<p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=AhmedElkholyy&theme=onestar&row=1&column=7"/>
+  </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedElkholyy&show_icons=true&theme=dark&locale=en" alt="AhmedElkholyy" />
 </p>
