@@ -2,27 +2,7 @@
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs,js,react,html,css,bootstrap,unity" alt="skills" />
 </p>
 
 <h2>⚡️ Where to find me</h2>
@@ -37,8 +17,8 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=AhmedElkholyy&theme=onestar&row=1&column=7"/>
-  </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedElkholyy&theme=onestar&row=1&column=7" />
+</p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedElkholyy&show_icons=true&theme=dark&locale=en" alt="AhmedElkholyy" />
 </p>
@@ -46,6 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedElkholyy&show_icons=true&theme=dark&locale=en&layout=compact" alt="AhmedElkholyy" />
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </p>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
