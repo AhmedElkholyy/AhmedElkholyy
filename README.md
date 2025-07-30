@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elkholy</h1>
-<h3 align="center">Unity Game Developer | Front-End Web Developer</h3>
+<h3 align="center">Senior Computer Engineering student learning React.js and front-end development.
+Passionate about building clean, responsive web interfaces.
+Currently working toward becoming a full-stack web developer through hands-on projects.
+Previously developed multiple projects using Unity.</h3>
 
-<h2>🚀 Technologies & Tools I Use</h2>
+<h2>🚀 Technologies & Tools</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60" height="60"/>
