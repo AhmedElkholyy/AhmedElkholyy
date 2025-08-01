@@ -5,12 +5,17 @@ Previously developed multiple projects using Unity.</h3>
 <h2>🚀 Technologies & Tools</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" height="60"/>
+
 </p>
 
 <h2>📱 Connect With Me</h2>
@@ -38,5 +43,4 @@ Previously developed multiple projects using Unity.</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 
