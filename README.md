@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elkholy</h1>
-<h3 align="center">Senior Computer Engineering student learning React.js and front-end development.
-Passionate about building clean, responsive web interfaces.
-Currently working toward becoming a full-stack web developer through hands-on projects.
+<h3 align="center">Final-year Computer Engineering student focused on full-stack web development. Learning to build responsive interfaces with HTML, CSS, JavaScript, and React, while exploring server-side development with Node.js and Express.
 Previously developed multiple projects using Unity.</h3>
 
 <h2>🚀 Technologies & Tools</h2>
