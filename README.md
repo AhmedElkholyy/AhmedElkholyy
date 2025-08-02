@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elkholy</h1>
-<h3 align="center">Final-year Computer Engineering student focused on full-stack web development. Learning to build responsive interfaces with HTML, CSS, JavaScript, and React, while exploring server-side development with Node.js and Express.
-Previously developed multiple projects using Unity.</h3>
 
-<h2>🚀 Technologies & Tools</h2>
+<h2>🚀 Technologies & Tools I Use</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="60" height="60"/>
@@ -15,7 +13,6 @@ Previously developed multiple projects using Unity.</h3>
   <img src="https://skillicons.dev/icons?i=express&theme=dark" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" height="60"/>
-
 </p>
 
 <h2>📱 Connect With Me</h2>
