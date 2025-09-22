@@ -1,14 +1,39 @@
-<h2>🚀 Technologies & Tools I Use</h2>
+<h1 align="center">Hi 👋, I'm Ahmed Elkholy</h1>
+<h3 align="center">Front-End Developer | Building Modern, Responsive, and Interactive Web Applications</h3>
+
+---
+
+<h2>🚀 Technologies & Tools</h2>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" height="60"/>
+  <b>Languages:</b><br/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="50" height="50"/>
 </p>
+
+<p align="left">
+  <b>Frontend Frameworks & Libraries:</b><br/>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50" height="50"/>
+</p>
+
+<p align="left">
+  <b>Tools & Package Managers:</b><br/>
+  <img src="https://skillicons.dev/icons?i=npm&theme=dark" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50"/>
+</p>
+
+<p align="left">
+  <b>Game Development:</b><br/>
+  <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="50" height="50"/>
+</p>
+
+---
 
 <h2>📱 Connect With Me</h2>
 <p align="left">
@@ -20,19 +45,18 @@
   </a>
 </p>
 
-<h2>📊 Activity Overview</h2>
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedElkholyy&show_icons=true&theme=dark&locale=en&layout=compact" alt="AhmedElkholyy" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://komarev.com/ghpvc/?username=AhmedElkholyy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
+---
+
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElkholyy&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElkholyy&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedElkholyy&label=Profile%20views&color=0e75b6&style=flat-square" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
