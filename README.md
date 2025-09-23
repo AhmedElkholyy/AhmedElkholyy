@@ -26,6 +26,7 @@
   <b>Tools & Package Managers:</b><br/>
   <img src="https://skillicons.dev/icons?i=npm&theme=dark" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50" height="50"/>
 </p>
 
 <p align="left">
