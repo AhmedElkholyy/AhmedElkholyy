@@ -19,6 +19,7 @@
   <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/reactbootstrap/7952B3" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50" height="50"/>
 </p>
 
