@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elkholy</h1>
-<h3 align="center">Front-End Developer | Building Modern, Responsive, and Interactive Web Applications</h3>
-
----
 
 <h2>🚀 Technologies & Tools</h2>
 
@@ -35,8 +32,6 @@
   <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="50" height="50"/>
 </p>
 
----
-
 <h2>📱 Connect With Me</h2>
 <p align="left">
   <a href="https://www.facebook.com/AhmedElkholy584" target="_blank">
@@ -47,18 +42,18 @@
   </a>
 </p>
 
----
-
 <h2>📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElkholyy&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElkholyy&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElkholyy&theme=dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElkholyy&layout=compact&theme=dark&hide_border=true" width="42%" height="170px" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedElkholyy&label=Profile%20views&color=0e75b6&style=flat-square" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=AhmedElkholyy&label=Profile%20views&color=0e75b6&style=flat-square" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
+
