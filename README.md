@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 
-<h2>🚀 Technologies & Tools</h2>
+<h2>🚀 Technologies & Tools I Use</h2>
 
 <p align="left">
   <b>Languages:</b><br/>
