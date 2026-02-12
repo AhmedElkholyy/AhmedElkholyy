@@ -1,58 +1,69 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-
-<h2>🚀 Technologies & Tools I Use</h2>
-
-<p align="left">
-  <b>Languages:</b><br/>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="50" height="50"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Frontend+Development;Mobile+Development;UI%2FUX+Design" alt="Typing SVG" />
 </p>
 
-<p align="left">
-  <b>Frontend Frameworks & Libraries:</b><br/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50" height="50"/>
-</p>
+---
 
-<p align="left">
-  <b>Tools & Package Managers:</b><br/>
-  <img src="https://skillicons.dev/icons?i=npm&theme=dark" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50" height="50"/>
-</p>
+### 👨‍💻 About Me
+I am a **Software Engineer** dedicated to building high-performance applications across web and mobile platforms. I bridge the gap between complex logic and intuitive design, ensuring every project is scalable, efficient, and visually engaging.
 
-<p align="left">
-  <b>Game Development:</b><br/>
-  <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="50" height="50"/>
-</p>
+* 🌐 **Web Excellence**: Architecting responsive and dynamic user interfaces using **React** and the modern **Vite** ecosystem.
+* 📱 **Mobile Mastery**: Developing seamless, cross-platform mobile experiences with **React Native** and **Expo**.
+* 🎨 **Design Driven**: Transforming creative concepts into interactive prototypes using **Figma** for precise UI/UX design.
 
-<h2>📱 Connect With Me</h2>
+---
+
+### 🚀 Technologies & Tools I Use
+
+#### 🌐 Frontend & Mobile
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/><br/>HTML5</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/><br/>CSS3</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/><br/>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/><br/>TypeScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/><br/>React/RN</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux"/><br/>Redux</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind"/><br/>Tailwind</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/><br/>Bootstrap</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="Vite"/><br/>Vite</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma"/><br/>Figma</td>
+  </tr>
+</table>
+
+#### ⚙️ Tools
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/><br/>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="40" height="40"/><br/>Vercel</td>
+  </tr>
+</table>
+
+#### 🎮 Game Development
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="40" height="40"/><br/>Unity</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="40" height="40"/><br/>C#</td>
+  </tr>
+</table>
+
+---
+
+### 📱 Connect With Me
 <p align="left">
   <a href="https://www.facebook.com/AhmedElkholy584" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  </a>&nbsp;
   <a href="https://wa.me/201061689980" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+  </a>&nbsp;
 </p>
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElkholyy&theme=dark&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElkholyy&layout=compact&theme=dark&hide_border=true" width="42%" height="170px" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedElkholyy&label=Profile%20views&color=0e75b6&style=flat-square" width="50%" />
-</p>
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
-
