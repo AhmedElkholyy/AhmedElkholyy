@@ -11,6 +11,7 @@ I am a **Software Engineer** dedicated to building high-performance applications
 * 🌐 **Web Excellence**: Architecting responsive and dynamic user interfaces using **React** and the modern **Vite** ecosystem.
 * 📱 **Mobile Mastery**: Developing seamless, cross-platform mobile experiences with **React Native** and **Expo**.
 * 🎨 **Design Driven**: Transforming creative concepts into interactive prototypes using **Figma** for precise UI/UX design.
+* 🎮 **Game Development**: Passionate about coding games as a hobby using **Unity** and **C#**, exploring creative and interactive experiences.
 
 ---
 
